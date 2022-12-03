@@ -1,0 +1,154 @@
+.navbar {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.logo {
+  width: 150px;
+  padding-left: 20px;
+}
+
+.navbar-nav {
+  margin-right: 3rem;
+}
+
+.nav-item:hover {
+  border-bottom: 1px solid black;
+}
+
+#showCase {
+  background: url("images/ef96820a-a880-409b-ae34-5e27eb8762a4.jpg");
+  height: 550px;
+  background-repeat: no-repeat;
+  width: 1900px;
+  position: relative;
+  background-size: cover;
+}
+.sale-para {
+  height: 250px;
+  width: 560px;
+  background-color: #ffffff;
+  border: 1px solid #ffff;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  padding: 20px;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  width: 95%;
+}
+.career {
+  height: 800px;
+  width: 1500px;
+  border: 5px solid black;
+  padding: 20px;
+}
+
+.recommended {
+  height: 700px;
+  width: 1800px;
+  border: 5px solid white;
+  padding: 20px;
+}
+
+.recommended-1 {
+  height: 1000px;
+  width: 1500px;
+  border: 5px solid white;
+  padding: 20px;
+}
+
+.recommended-2 {
+  height: 700px;
+  width: 1500px;
+}
+.recommended-3 {
+  height: 60px;
+  padding-top: 20px;
+}
+
+.course-img {
+  height: 155px;
+  width: 320px;
+}
+
+.course-img-2 {
+  height: 250px;
+  width: 400px;
+}
+
+.cover-img {
+  height: 600px;
+  width: 600px;
+}
+
+.cover-img-1 {
+  height: 650px;
+  width: 640px;
+}
+
+.font-1 {
+  font-family: "Noto Serif", serif;
+}
+
+.font-2 {
+  font-family: "Bitter", serif;
+}
+
+.bg-1 {
+  background: #eceb98;
+}
+
+.bg-2 {
+  background-color: #f7f9fa;
+}
+
+.fw-640 {
+  font-weight: 640;
+}
+
+.fs-42 {
+  font-size: 42px;
+  line-height: 90px;
+}
+
+.fs-37 {
+  font-size: 27px;
+}
+
+.fs-16 {
+  font-size: 25px;
+  font-weight: 500;
+}
+.fs-54 {
+  font-size: 54px;
+}
+.color-1 {
+  color: #a435f0;
+}
+
+.fs-30 {
+  font-size: 40px;
+}
+.lh {
+  line-height: 0;
+}
+
+.padding-top-1 {
+  padding-top: 100px;
+}
+
+.padding-top-2 {
+  padding-top: 140px;
+}
+
+@media (min-width: 2000px) {
+  .content {
+    width: 65%;
+  }
+}
